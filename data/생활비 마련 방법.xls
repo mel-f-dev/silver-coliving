@@ -1,0 +1,347 @@
+
+
+
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    </head>
+
+
+	
+	<br>
+	<table border=1>
+		<caption>생활비 마련 방법(60세 이상 인구) [단위 : %]</caption>
+			<thead>
+			<tr>
+			<th colspan="1" rowspan="2">&nbsp;</th>
+			<th data-id='t276704_h_0' data-index='0' data-name='td_276704_cc_0' class="tc" data-headers='td_276704_cc_0' colspan='9' rowspan='1'>2007</th>
+<th data-id='t276704_h_1' data-index='1' data-name='td_276704_cc_1' class="tc" data-headers='td_276704_cc_1' colspan='9' rowspan='1'>2009</th>
+<th data-id='t276704_h_2' data-index='2' data-name='td_276704_cc_2' class="tc" data-headers='td_276704_cc_2' colspan='9' rowspan='1'>2011</th>
+<th data-id='t276704_h_3' data-index='3' data-name='td_276704_cc_3' class="tc" data-headers='td_276704_cc_3' colspan='9' rowspan='1'>2013</th>
+<th data-id='t276704_h_4' data-index='4' data-name='td_276704_cc_4' class="tc" data-headers='td_276704_cc_4' colspan='9' rowspan='1'>2015</th>
+<th data-id='t276704_h_5' data-index='5' data-name='td_276704_cc_5' class="tc" data-headers='td_276704_cc_5' colspan='2' rowspan='1'>2017</th>
+</tr><tr data-id='trHeader276704_2' class='bg'><th data-id='t276704_h_00' data-index='0:0' data-name='td_276704_cc_00' class="tc" data-headers='td_276704_cc_00' nowrap='nowrap'  rowspan='1'>계</th>
+<th data-id='t276704_h_01' data-index='0:1' data-name='td_276704_cc_01' class="tc" data-headers='td_276704_cc_01' nowrap='nowrap'  rowspan='1'>도시<br/>(동부)</th>
+<th data-id='t276704_h_02' data-index='0:2' data-name='td_276704_cc_02' class="tc" data-headers='td_276704_cc_02' nowrap='nowrap'  rowspan='1'>농어촌<br/>(읍면부)</th>
+<th data-id='t276704_h_03' data-index='0:3' data-name='td_276704_cc_03' class="tc" data-headers='td_276704_cc_03' nowrap='nowrap'  rowspan='1'>남자</th>
+<th data-id='t276704_h_04' data-index='0:4' data-name='td_276704_cc_04' class="tc" data-headers='td_276704_cc_04' nowrap='nowrap'  rowspan='1'>여자</th>
+<th data-id='t276704_h_05' data-index='0:5' data-name='td_276704_cc_05' class="tc" data-headers='td_276704_cc_05' nowrap='nowrap'  rowspan='1'>60-64세</th>
+<th data-id='t276704_h_06' data-index='0:6' data-name='td_276704_cc_06' class="tc" data-headers='td_276704_cc_06' nowrap='nowrap'  rowspan='1'>65-69세</th>
+<th data-id='t276704_h_07' data-index='0:7' data-name='td_276704_cc_07' class="tc" data-headers='td_276704_cc_07' nowrap='nowrap'  rowspan='1'>70-79세</th>
+<th data-id='t276704_h_08' data-index='0:8' data-name='td_276704_cc_08' class="tc" data-headers='td_276704_cc_08' nowrap='nowrap'  rowspan='1'>80세<br/>이상</th>
+<th data-id='t276704_h_10' data-index='1:0' data-name='td_276704_cc_10' class="tc" data-headers='td_276704_cc_10' nowrap='nowrap'  rowspan='1'>계</th>
+<th data-id='t276704_h_11' data-index='1:1' data-name='td_276704_cc_11' class="tc" data-headers='td_276704_cc_11' nowrap='nowrap'  rowspan='1'>도시<br/>(동부)</th>
+<th data-id='t276704_h_12' data-index='1:2' data-name='td_276704_cc_12' class="tc" data-headers='td_276704_cc_12' nowrap='nowrap'  rowspan='1'>농어촌<br/>(읍면부)</th>
+<th data-id='t276704_h_13' data-index='1:3' data-name='td_276704_cc_13' class="tc" data-headers='td_276704_cc_13' nowrap='nowrap'  rowspan='1'>남자</th>
+<th data-id='t276704_h_14' data-index='1:4' data-name='td_276704_cc_14' class="tc" data-headers='td_276704_cc_14' nowrap='nowrap'  rowspan='1'>여자</th>
+<th data-id='t276704_h_15' data-index='1:5' data-name='td_276704_cc_15' class="tc" data-headers='td_276704_cc_15' nowrap='nowrap'  rowspan='1'>60-64세</th>
+<th data-id='t276704_h_16' data-index='1:6' data-name='td_276704_cc_16' class="tc" data-headers='td_276704_cc_16' nowrap='nowrap'  rowspan='1'>65-69세</th>
+<th data-id='t276704_h_17' data-index='1:7' data-name='td_276704_cc_17' class="tc" data-headers='td_276704_cc_17' nowrap='nowrap'  rowspan='1'>70-79세</th>
+<th data-id='t276704_h_18' data-index='1:8' data-name='td_276704_cc_18' class="tc" data-headers='td_276704_cc_18' nowrap='nowrap'  rowspan='1'>80세<br/>이상</th>
+<th data-id='t276704_h_20' data-index='2:0' data-name='td_276704_cc_20' class="tc" data-headers='td_276704_cc_20' nowrap='nowrap'  rowspan='1'>계</th>
+<th data-id='t276704_h_21' data-index='2:1' data-name='td_276704_cc_21' class="tc" data-headers='td_276704_cc_21' nowrap='nowrap'  rowspan='1'>도시<br/>(동부)</th>
+<th data-id='t276704_h_22' data-index='2:2' data-name='td_276704_cc_22' class="tc" data-headers='td_276704_cc_22' nowrap='nowrap'  rowspan='1'>농어촌<br/>(읍면부)</th>
+<th data-id='t276704_h_23' data-index='2:3' data-name='td_276704_cc_23' class="tc" data-headers='td_276704_cc_23' nowrap='nowrap'  rowspan='1'>남자</th>
+<th data-id='t276704_h_24' data-index='2:4' data-name='td_276704_cc_24' class="tc" data-headers='td_276704_cc_24' nowrap='nowrap'  rowspan='1'>여자</th>
+<th data-id='t276704_h_25' data-index='2:5' data-name='td_276704_cc_25' class="tc" data-headers='td_276704_cc_25' nowrap='nowrap'  rowspan='1'>60-64세</th>
+<th data-id='t276704_h_26' data-index='2:6' data-name='td_276704_cc_26' class="tc" data-headers='td_276704_cc_26' nowrap='nowrap'  rowspan='1'>65-69세</th>
+<th data-id='t276704_h_27' data-index='2:7' data-name='td_276704_cc_27' class="tc" data-headers='td_276704_cc_27' nowrap='nowrap'  rowspan='1'>70-79세</th>
+<th data-id='t276704_h_28' data-index='2:8' data-name='td_276704_cc_28' class="tc" data-headers='td_276704_cc_28' nowrap='nowrap'  rowspan='1'>80세<br/>이상</th>
+<th data-id='t276704_h_30' data-index='3:0' data-name='td_276704_cc_30' class="tc" data-headers='td_276704_cc_30' nowrap='nowrap'  rowspan='1'>계</th>
+<th data-id='t276704_h_31' data-index='3:1' data-name='td_276704_cc_31' class="tc" data-headers='td_276704_cc_31' nowrap='nowrap'  rowspan='1'>도시<br/>(동부)</th>
+<th data-id='t276704_h_32' data-index='3:2' data-name='td_276704_cc_32' class="tc" data-headers='td_276704_cc_32' nowrap='nowrap'  rowspan='1'>농어촌<br/>(읍면부)</th>
+<th data-id='t276704_h_33' data-index='3:3' data-name='td_276704_cc_33' class="tc" data-headers='td_276704_cc_33' nowrap='nowrap'  rowspan='1'>남자</th>
+<th data-id='t276704_h_34' data-index='3:4' data-name='td_276704_cc_34' class="tc" data-headers='td_276704_cc_34' nowrap='nowrap'  rowspan='1'>여자</th>
+<th data-id='t276704_h_35' data-index='3:5' data-name='td_276704_cc_35' class="tc" data-headers='td_276704_cc_35' nowrap='nowrap'  rowspan='1'>60-64세</th>
+<th data-id='t276704_h_36' data-index='3:6' data-name='td_276704_cc_36' class="tc" data-headers='td_276704_cc_36' nowrap='nowrap'  rowspan='1'>65-69세</th>
+<th data-id='t276704_h_37' data-index='3:7' data-name='td_276704_cc_37' class="tc" data-headers='td_276704_cc_37' nowrap='nowrap'  rowspan='1'>70-79세</th>
+<th data-id='t276704_h_38' data-index='3:8' data-name='td_276704_cc_38' class="tc" data-headers='td_276704_cc_38' nowrap='nowrap'  rowspan='1'>80세<br/>이상</th>
+<th data-id='t276704_h_40' data-index='4:0' data-name='td_276704_cc_40' class="tc" data-headers='td_276704_cc_40' nowrap='nowrap'  rowspan='1'>계</th>
+<th data-id='t276704_h_41' data-index='4:1' data-name='td_276704_cc_41' class="tc" data-headers='td_276704_cc_41' nowrap='nowrap'  rowspan='1'>도시<br/>(동부)</th>
+<th data-id='t276704_h_42' data-index='4:2' data-name='td_276704_cc_42' class="tc" data-headers='td_276704_cc_42' nowrap='nowrap'  rowspan='1'>농어촌<br/>(읍면부)</th>
+<th data-id='t276704_h_43' data-index='4:3' data-name='td_276704_cc_43' class="tc" data-headers='td_276704_cc_43' nowrap='nowrap'  rowspan='1'>남자</th>
+<th data-id='t276704_h_44' data-index='4:4' data-name='td_276704_cc_44' class="tc" data-headers='td_276704_cc_44' nowrap='nowrap'  rowspan='1'>여자</th>
+<th data-id='t276704_h_45' data-index='4:5' data-name='td_276704_cc_45' class="tc" data-headers='td_276704_cc_45' nowrap='nowrap'  rowspan='1'>60-64세</th>
+<th data-id='t276704_h_46' data-index='4:6' data-name='td_276704_cc_46' class="tc" data-headers='td_276704_cc_46' nowrap='nowrap'  rowspan='1'>65-69세</th>
+<th data-id='t276704_h_47' data-index='4:7' data-name='td_276704_cc_47' class="tc" data-headers='td_276704_cc_47' nowrap='nowrap'  rowspan='1'>70-79세</th>
+<th data-id='t276704_h_48' data-index='4:8' data-name='td_276704_cc_48' class="tc" data-headers='td_276704_cc_48' nowrap='nowrap'  rowspan='1'>80세<br/>이상</th>
+<th data-id='t276704_h_50' data-index='5:0' data-name='td_276704_cc_50' class="tc" data-headers='td_276704_cc_50' nowrap='nowrap'  rowspan='1'>도시<br/>(동부)</th>
+<th data-id='t276704_h_51' data-index='5:1' data-name='td_276704_cc_51' class="tc" data-headers='td_276704_cc_51' nowrap='nowrap'  rowspan='1'>농어촌<br/>(읍면부)</th>
+</tr>
+			</thead>
+			<tbody>
+	
+				<tr>
+				
+				<th class="tl" data-id='t276704_c1_0' colspan='1' rowspan='1'>계</th>
+	<td headers='t276704_h_0 t276704_h_00 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_01 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_02 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_03 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_04 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_05 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_06 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_07 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_0 t276704_h_08 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_10 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_11 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_12 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_13 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_14 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_15 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_16 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_17 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_1 t276704_h_18 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_20 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_21 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_22 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_23 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_24 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_25 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_26 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_27 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_2 t276704_h_28 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_30 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_31 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_32 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_33 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_34 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_35 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_36 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_37 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_3 t276704_h_38 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_40 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_41 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_42 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_43 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_44 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_45 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_46 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_47 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_4 t276704_h_48 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_5 t276704_h_50 t276704_c1_0'>100.0</td>
+<td headers='t276704_h_5 t276704_h_51 t276704_c1_0'>100.0</td>
+
+				</tr>
+	
+				<tr>
+				
+				<th class="tl" data-id='t276704_c1_1' colspan='1' rowspan='1'>본인&nbsp;및&nbsp;배우자부담</th>
+	<td headers='t276704_h_0 t276704_h_00 t276704_c1_1'>61.3</td>
+<td headers='t276704_h_0 t276704_h_01 t276704_c1_1'>59.2</td>
+<td headers='t276704_h_0 t276704_h_02 t276704_c1_1'>66.0</td>
+<td headers='t276704_h_0 t276704_h_03 t276704_c1_1'>77.0</td>
+<td headers='t276704_h_0 t276704_h_04 t276704_c1_1'>49.5</td>
+<td headers='t276704_h_0 t276704_h_05 t276704_c1_1'>83.2</td>
+<td headers='t276704_h_0 t276704_h_06 t276704_c1_1'>68.4</td>
+<td headers='t276704_h_0 t276704_h_07 t276704_c1_1'>48.2</td>
+<td headers='t276704_h_0 t276704_h_08 t276704_c1_1'>20.0</td>
+<td headers='t276704_h_1 t276704_h_10 t276704_c1_1'>60.0</td>
+<td headers='t276704_h_1 t276704_h_11 t276704_c1_1'>58.3</td>
+<td headers='t276704_h_1 t276704_h_12 t276704_c1_1'>63.9</td>
+<td headers='t276704_h_1 t276704_h_13 t276704_c1_1'>73.1</td>
+<td headers='t276704_h_1 t276704_h_14 t276704_c1_1'>50.1</td>
+<td headers='t276704_h_1 t276704_h_15 t276704_c1_1'>80.0</td>
+<td headers='t276704_h_1 t276704_h_16 t276704_c1_1'>67.9</td>
+<td headers='t276704_h_1 t276704_h_17 t276704_c1_1'>48.0</td>
+<td headers='t276704_h_1 t276704_h_18 t276704_c1_1'>23.8</td>
+<td headers='t276704_h_2 t276704_h_20 t276704_c1_1'>60.1</td>
+<td headers='t276704_h_2 t276704_h_21 t276704_c1_1'>58.8</td>
+<td headers='t276704_h_2 t276704_h_22 t276704_c1_1'>63.5</td>
+<td headers='t276704_h_2 t276704_h_23 t276704_c1_1'>74.1</td>
+<td headers='t276704_h_2 t276704_h_24 t276704_c1_1'>49.4</td>
+<td headers='t276704_h_2 t276704_h_25 t276704_c1_1'>81.2</td>
+<td headers='t276704_h_2 t276704_h_26 t276704_c1_1'>70.4</td>
+<td headers='t276704_h_2 t276704_h_27 t276704_c1_1'>50.2</td>
+<td headers='t276704_h_2 t276704_h_28 t276704_c1_1'>22.0</td>
+<td headers='t276704_h_3 t276704_h_30 t276704_c1_1'>63.6</td>
+<td headers='t276704_h_3 t276704_h_31 t276704_c1_1'>63.1</td>
+<td headers='t276704_h_3 t276704_h_32 t276704_c1_1'>65.1</td>
+<td headers='t276704_h_3 t276704_h_33 t276704_c1_1'>76.6</td>
+<td headers='t276704_h_3 t276704_h_34 t276704_c1_1'>53.7</td>
+<td headers='t276704_h_3 t276704_h_35 t276704_c1_1'>84.9</td>
+<td headers='t276704_h_3 t276704_h_36 t276704_c1_1'>74.7</td>
+<td headers='t276704_h_3 t276704_h_37 t276704_c1_1'>53.4</td>
+<td headers='t276704_h_3 t276704_h_38 t276704_c1_1'>23.7</td>
+<td headers='t276704_h_4 t276704_h_40 t276704_c1_1'>66.6</td>
+<td headers='t276704_h_4 t276704_h_41 t276704_c1_1'>66.7</td>
+<td headers='t276704_h_4 t276704_h_42 t276704_c1_1'>66.1</td>
+<td headers='t276704_h_4 t276704_h_43 t276704_c1_1'>78.8</td>
+<td headers='t276704_h_4 t276704_h_44 t276704_c1_1'>57.0</td>
+<td headers='t276704_h_4 t276704_h_45 t276704_c1_1'>86.3</td>
+<td headers='t276704_h_4 t276704_h_46 t276704_c1_1'>76.3</td>
+<td headers='t276704_h_4 t276704_h_47 t276704_c1_1'>56.7</td>
+<td headers='t276704_h_4 t276704_h_48 t276704_c1_1'>30.9</td>
+<td headers='t276704_h_5 t276704_h_50 t276704_c1_1'>70.5</td>
+<td headers='t276704_h_5 t276704_h_51 t276704_c1_1'>68.0</td>
+
+				</tr>
+	
+				<tr>
+				
+				<th class="tl" data-id='t276704_c1_2' colspan='1' rowspan='1'>자녀또는친척지원</th>
+	<td headers='t276704_h_0 t276704_h_00 t276704_c1_2'>34.1</td>
+<td headers='t276704_h_0 t276704_h_01 t276704_c1_2'>36.6</td>
+<td headers='t276704_h_0 t276704_h_02 t276704_c1_2'>28.7</td>
+<td headers='t276704_h_0 t276704_h_03 t276704_c1_2'>19.8</td>
+<td headers='t276704_h_0 t276704_h_04 t276704_c1_2'>45.0</td>
+<td headers='t276704_h_0 t276704_h_05 t276704_c1_2'>14.9</td>
+<td headers='t276704_h_0 t276704_h_06 t276704_c1_2'>27.5</td>
+<td headers='t276704_h_0 t276704_h_07 t276704_c1_2'>45.3</td>
+<td headers='t276704_h_0 t276704_h_08 t276704_c1_2'>73.3</td>
+<td headers='t276704_h_1 t276704_h_10 t276704_c1_2'>31.4</td>
+<td headers='t276704_h_1 t276704_h_11 t276704_c1_2'>33.2</td>
+<td headers='t276704_h_1 t276704_h_12 t276704_c1_2'>27.1</td>
+<td headers='t276704_h_1 t276704_h_13 t276704_c1_2'>20.5</td>
+<td headers='t276704_h_1 t276704_h_14 t276704_c1_2'>39.6</td>
+<td headers='t276704_h_1 t276704_h_15 t276704_c1_2'>15.9</td>
+<td headers='t276704_h_1 t276704_h_16 t276704_c1_2'>25.5</td>
+<td headers='t276704_h_1 t276704_h_17 t276704_c1_2'>40.4</td>
+<td headers='t276704_h_1 t276704_h_18 t276704_c1_2'>59.5</td>
+<td headers='t276704_h_2 t276704_h_20 t276704_c1_2'>32.0</td>
+<td headers='t276704_h_2 t276704_h_21 t276704_c1_2'>33.4</td>
+<td headers='t276704_h_2 t276704_h_22 t276704_c1_2'>28.6</td>
+<td headers='t276704_h_2 t276704_h_23 t276704_c1_2'>20.3</td>
+<td headers='t276704_h_2 t276704_h_24 t276704_c1_2'>41.0</td>
+<td headers='t276704_h_2 t276704_h_25 t276704_c1_2'>14.5</td>
+<td headers='t276704_h_2 t276704_h_26 t276704_c1_2'>24.3</td>
+<td headers='t276704_h_2 t276704_h_27 t276704_c1_2'>39.7</td>
+<td headers='t276704_h_2 t276704_h_28 t276704_c1_2'>64.1</td>
+<td headers='t276704_h_3 t276704_h_30 t276704_c1_2'>28.8</td>
+<td headers='t276704_h_3 t276704_h_31 t276704_c1_2'>29.9</td>
+<td headers='t276704_h_3 t276704_h_32 t276704_c1_2'>25.8</td>
+<td headers='t276704_h_3 t276704_h_33 t276704_c1_2'>17.7</td>
+<td headers='t276704_h_3 t276704_h_34 t276704_c1_2'>37.3</td>
+<td headers='t276704_h_3 t276704_h_35 t276704_c1_2'>12.0</td>
+<td headers='t276704_h_3 t276704_h_36 t276704_c1_2'>20.1</td>
+<td headers='t276704_h_3 t276704_h_37 t276704_c1_2'>37.5</td>
+<td headers='t276704_h_3 t276704_h_38 t276704_c1_2'>57.9</td>
+<td headers='t276704_h_4 t276704_h_40 t276704_c1_2'>23.0</td>
+<td headers='t276704_h_4 t276704_h_41 t276704_c1_2'>24.1</td>
+<td headers='t276704_h_4 t276704_h_42 t276704_c1_2'>19.9</td>
+<td headers='t276704_h_4 t276704_h_43 t276704_c1_2'>13.0</td>
+<td headers='t276704_h_4 t276704_h_44 t276704_c1_2'>30.8</td>
+<td headers='t276704_h_4 t276704_h_45 t276704_c1_2'>9.2</td>
+<td headers='t276704_h_4 t276704_h_46 t276704_c1_2'>15.9</td>
+<td headers='t276704_h_4 t276704_h_47 t276704_c1_2'>30.1</td>
+<td headers='t276704_h_4 t276704_h_48 t276704_c1_2'>47.5</td>
+<td headers='t276704_h_5 t276704_h_50 t276704_c1_2'>20.1</td>
+<td headers='t276704_h_5 t276704_h_51 t276704_c1_2'>20.3</td>
+
+				</tr>
+	
+				<tr>
+				
+				<th class="tl" data-id='t276704_c1_3' colspan='1' rowspan='1'>정부및사회단체</th>
+	<td headers='t276704_h_0 t276704_h_00 t276704_c1_3'>4.4</td>
+<td headers='t276704_h_0 t276704_h_01 t276704_c1_3'>4.1</td>
+<td headers='t276704_h_0 t276704_h_02 t276704_c1_3'>5.2</td>
+<td headers='t276704_h_0 t276704_h_03 t276704_c1_3'>3.2</td>
+<td headers='t276704_h_0 t276704_h_04 t276704_c1_3'>5.4</td>
+<td headers='t276704_h_0 t276704_h_05 t276704_c1_3'>1.9</td>
+<td headers='t276704_h_0 t276704_h_06 t276704_c1_3'>4.0</td>
+<td headers='t276704_h_0 t276704_h_07 t276704_c1_3'>6.4</td>
+<td headers='t276704_h_0 t276704_h_08 t276704_c1_3'>6.5</td>
+<td headers='t276704_h_1 t276704_h_10 t276704_c1_3'>8.6</td>
+<td headers='t276704_h_1 t276704_h_11 t276704_c1_3'>8.4</td>
+<td headers='t276704_h_1 t276704_h_12 t276704_c1_3'>9.0</td>
+<td headers='t276704_h_1 t276704_h_13 t276704_c1_3'>6.4</td>
+<td headers='t276704_h_1 t276704_h_14 t276704_c1_3'>10.2</td>
+<td headers='t276704_h_1 t276704_h_15 t276704_c1_3'>3.9</td>
+<td headers='t276704_h_1 t276704_h_16 t276704_c1_3'>6.6</td>
+<td headers='t276704_h_1 t276704_h_17 t276704_c1_3'>11.5</td>
+<td headers='t276704_h_1 t276704_h_18 t276704_c1_3'>16.7</td>
+<td headers='t276704_h_2 t276704_h_20 t276704_c1_3'>7.7</td>
+<td headers='t276704_h_2 t276704_h_21 t276704_c1_3'>7.6</td>
+<td headers='t276704_h_2 t276704_h_22 t276704_c1_3'>7.8</td>
+<td headers='t276704_h_2 t276704_h_23 t276704_c1_3'>5.4</td>
+<td headers='t276704_h_2 t276704_h_24 t276704_c1_3'>9.4</td>
+<td headers='t276704_h_2 t276704_h_25 t276704_c1_3'>4.1</td>
+<td headers='t276704_h_2 t276704_h_26 t276704_c1_3'>5.3</td>
+<td headers='t276704_h_2 t276704_h_27 t276704_c1_3'>9.8</td>
+<td headers='t276704_h_2 t276704_h_28 t276704_c1_3'>13.8</td>
+<td headers='t276704_h_3 t276704_h_30 t276704_c1_3'>7.6</td>
+<td headers='t276704_h_3 t276704_h_31 t276704_c1_3'>7.0</td>
+<td headers='t276704_h_3 t276704_h_32 t276704_c1_3'>9.1</td>
+<td headers='t276704_h_3 t276704_h_33 t276704_c1_3'>5.7</td>
+<td headers='t276704_h_3 t276704_h_34 t276704_c1_3'>9.0</td>
+<td headers='t276704_h_3 t276704_h_35 t276704_c1_3'>3.1</td>
+<td headers='t276704_h_3 t276704_h_36 t276704_c1_3'>5.1</td>
+<td headers='t276704_h_3 t276704_h_37 t276704_c1_3'>9.0</td>
+<td headers='t276704_h_3 t276704_h_38 t276704_c1_3'>18.4</td>
+<td headers='t276704_h_4 t276704_h_40 t276704_c1_3'>10.4</td>
+<td headers='t276704_h_4 t276704_h_41 t276704_c1_3'>9.1</td>
+<td headers='t276704_h_4 t276704_h_42 t276704_c1_3'>13.9</td>
+<td headers='t276704_h_4 t276704_h_43 t276704_c1_3'>8.2</td>
+<td headers='t276704_h_4 t276704_h_44 t276704_c1_3'>12.1</td>
+<td headers='t276704_h_4 t276704_h_45 t276704_c1_3'>4.4</td>
+<td headers='t276704_h_4 t276704_h_46 t276704_c1_3'>7.6</td>
+<td headers='t276704_h_4 t276704_h_47 t276704_c1_3'>13.1</td>
+<td headers='t276704_h_4 t276704_h_48 t276704_c1_3'>21.6</td>
+<td headers='t276704_h_5 t276704_h_50 t276704_c1_3'>9.3</td>
+<td headers='t276704_h_5 t276704_h_51 t276704_c1_3'>11.6</td>
+
+				</tr>
+	
+				<tr>
+				
+				<th class="tl" data-id='t276704_c1_4' colspan='1' rowspan='1'>기타</th>
+	<td headers='t276704_h_0 t276704_h_00 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_0 t276704_h_01 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_0 t276704_h_02 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_0 t276704_h_03 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_0 t276704_h_04 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_0 t276704_h_05 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_0 t276704_h_06 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_0 t276704_h_07 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_0 t276704_h_08 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_1 t276704_h_10 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_1 t276704_h_11 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_1 t276704_h_12 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_1 t276704_h_13 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_1 t276704_h_14 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_1 t276704_h_15 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_1 t276704_h_16 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_1 t276704_h_17 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_1 t276704_h_18 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_2 t276704_h_20 t276704_c1_4'>0.2</td>
+<td headers='t276704_h_2 t276704_h_21 t276704_c1_4'>0.2</td>
+<td headers='t276704_h_2 t276704_h_22 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_2 t276704_h_23 t276704_c1_4'>0.2</td>
+<td headers='t276704_h_2 t276704_h_24 t276704_c1_4'>0.2</td>
+<td headers='t276704_h_2 t276704_h_25 t276704_c1_4'>0.2</td>
+<td headers='t276704_h_2 t276704_h_26 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_2 t276704_h_27 t276704_c1_4'>0.2</td>
+<td headers='t276704_h_2 t276704_h_28 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_3 t276704_h_30 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_3 t276704_h_31 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_3 t276704_h_32 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_3 t276704_h_33 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_3 t276704_h_34 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_3 t276704_h_35 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_3 t276704_h_36 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_3 t276704_h_37 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_3 t276704_h_38 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_4 t276704_h_40 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_4 t276704_h_41 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_4 t276704_h_42 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_4 t276704_h_43 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_4 t276704_h_44 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_4 t276704_h_45 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_4 t276704_h_46 t276704_c1_4'>0.1</td>
+<td headers='t276704_h_4 t276704_h_47 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_4 t276704_h_48 t276704_c1_4'>0.0</td>
+<td headers='t276704_h_5 t276704_h_50 t276704_c1_4'>-</td>
+<td headers='t276704_h_5 t276704_h_51 t276704_c1_4'>-</td>
+
+				</tr>
+			
+		</tbody>
+	</table>
+	<br>
+	
+	
+	
+	
+</html>

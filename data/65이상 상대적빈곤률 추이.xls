@@ -1,0 +1,100 @@
+
+
+
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    </head>
+
+
+	
+	<br>
+	<table border=1>
+		<caption>65세 이상 인구의 상대적 빈곤율 추이 [단위 : %]</caption>
+			<thead>
+			<tr>
+			<th colspan="2" rowspan="1">&nbsp;</th>
+			<th data-id='t102401_h_0' data-index='0' data-name='td_102401_cc_0' class="tc" data-headers='td_102401_cc_0'  rowspan='1'>2009</th>
+<th data-id='t102401_h_1' data-index='1' data-name='td_102401_cc_1' class="tc" data-headers='td_102401_cc_1'  rowspan='1'>2010</th>
+<th data-id='t102401_h_2' data-index='2' data-name='td_102401_cc_2' class="tc" data-headers='td_102401_cc_2'  rowspan='1'>2011</th>
+<th data-id='t102401_h_3' data-index='3' data-name='td_102401_cc_3' class="tc" data-headers='td_102401_cc_3'  rowspan='1'>2012</th>
+<th data-id='t102401_h_4' data-index='4' data-name='td_102401_cc_4' class="tc" data-headers='td_102401_cc_4'  rowspan='1'>2013</th>
+<th data-id='t102401_h_5' data-index='5' data-name='td_102401_cc_5' class="tc" data-headers='td_102401_cc_5'  rowspan='1'>2014</th>
+<th data-id='t102401_h_6' data-index='6' data-name='td_102401_cc_6' class="tc" data-headers='td_102401_cc_6'  rowspan='1'>2015</th>
+<th data-id='t102401_h_7' data-index='7' data-name='td_102401_cc_7' class="tc" data-headers='td_102401_cc_7'  rowspan='1'>2016</th>
+<th data-id='t102401_h_8' data-index='8' data-name='td_102401_cc_8' class="tc" data-headers='td_102401_cc_8'  rowspan='1'>2017</th>
+</tr>
+			</thead>
+			<tbody>
+	
+				<tr>
+				
+				<th class="tl" data-id ='t102401_c1_0' colspan='1' rowspan='2'>가계동향조사(농가경제조사&nbsp;포함)</th><th class="tl" data-id ='t102401_c2_00' colspan='1' rowspan='1'>시장소득</th>
+	<td headers='t102401_h_0 t102401_c1_0 t102401_c2_00'>57.3</td>
+<td headers='t102401_h_1 t102401_c1_0 t102401_c2_00'>59.1</td>
+<td headers='t102401_h_2 t102401_c1_0 t102401_c2_00'>60.2</td>
+<td headers='t102401_h_3 t102401_c1_0 t102401_c2_00'>60.3</td>
+<td headers='t102401_h_4 t102401_c1_0 t102401_c2_00'>61.3</td>
+<td headers='t102401_h_5 t102401_c1_0 t102401_c2_00'>62.5</td>
+<td headers='t102401_h_6 t102401_c1_0 t102401_c2_00'>63.2</td>
+<td headers='t102401_h_7 t102401_c1_0 t102401_c2_00'>65.5</td>
+<td headers='t102401_h_8 t102401_c1_0 t102401_c2_00'>-</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id ='t102401_c2_01' colspan='1' rowspan='1'>처분가능소득</th>
+	<td headers='t102401_h_0 t102401_c1_0 t102401_c2_01'>45.9</td>
+<td headers='t102401_h_1 t102401_c1_0 t102401_c2_01'>46.3</td>
+<td headers='t102401_h_2 t102401_c1_0 t102401_c2_01'>47.6</td>
+<td headers='t102401_h_3 t102401_c1_0 t102401_c2_01'>47.2</td>
+<td headers='t102401_h_4 t102401_c1_0 t102401_c2_01'>48.1</td>
+<td headers='t102401_h_5 t102401_c1_0 t102401_c2_01'>47.4</td>
+<td headers='t102401_h_6 t102401_c1_0 t102401_c2_01'>44.8</td>
+<td headers='t102401_h_7 t102401_c1_0 t102401_c2_01'>46.5</td>
+<td headers='t102401_h_8 t102401_c1_0 t102401_c2_01'>-</td>
+
+				</tr>
+	
+				<tr>
+				
+				<th class="tl" data-id ='t102401_c1_1' colspan='1' rowspan='2'>가계금융복지조사</th><th class="tl" data-id ='t102401_c2_10' colspan='1' rowspan='1'>시장소득</th>
+	<td headers='t102401_h_0 t102401_c1_1 t102401_c2_10'>-</td>
+<td headers='t102401_h_1 t102401_c1_1 t102401_c2_10'>-</td>
+<td headers='t102401_h_2 t102401_c1_1 t102401_c2_10'>56.6</td>
+<td headers='t102401_h_3 t102401_c1_1 t102401_c2_10'>55.4</td>
+<td headers='t102401_h_4 t102401_c1_1 t102401_c2_10'>55.7</td>
+<td headers='t102401_h_5 t102401_c1_1 t102401_c2_10'>55.9</td>
+<td headers='t102401_h_6 t102401_c1_1 t102401_c2_10'>56.6</td>
+<td headers='t102401_h_7 t102401_c1_1 t102401_c2_10'>57.5</td>
+<td headers='t102401_h_8 t102401_c1_1 t102401_c2_10'>56.6</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id ='t102401_c2_11' colspan='1' rowspan='1'>처분가능소득</th>
+	<td headers='t102401_h_0 t102401_c1_1 t102401_c2_11'>-</td>
+<td headers='t102401_h_1 t102401_c1_1 t102401_c2_11'>-</td>
+<td headers='t102401_h_2 t102401_c1_1 t102401_c2_11'>46.5</td>
+<td headers='t102401_h_3 t102401_c1_1 t102401_c2_11'>45.4</td>
+<td headers='t102401_h_4 t102401_c1_1 t102401_c2_11'>46.3</td>
+<td headers='t102401_h_5 t102401_c1_1 t102401_c2_11'>44.5</td>
+<td headers='t102401_h_6 t102401_c1_1 t102401_c2_11'>43.2</td>
+<td headers='t102401_h_7 t102401_c1_1 t102401_c2_11'>43.6</td>
+<td headers='t102401_h_8 t102401_c1_1 t102401_c2_11'>42.2</td>
+
+				</tr>
+			
+		</tbody>
+	</table>
+	<br>
+	
+	
+	
+	
+</html>
